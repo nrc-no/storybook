@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "main": "__generated__/AppEntry.js",
-  "homepage": "https://github.com/nrc-no/storybook",
+  "homepage": "https://nrc-no.github.io/storybook/",
   "scripts": {
     "postinstall": "expo-yarn-workspaces postinstall",
     "start": "expo start",
